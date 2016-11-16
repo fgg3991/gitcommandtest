@@ -1,0 +1,5 @@
+D:\VSproject\MyWcfService\MyModel\bin\Debug\MyModel.dll
+D:\VSproject\MyWcfService\MyModel\bin\Debug\MyModel.pdb
+D:\VSproject\MyWcfService\MyModel\obj\Debug\ResolveAssemblyReference.cache
+D:\VSproject\MyWcfService\MyModel\obj\Debug\MyModel.dll
+D:\VSproject\MyWcfService\MyModel\obj\Debug\MyModel.pdb

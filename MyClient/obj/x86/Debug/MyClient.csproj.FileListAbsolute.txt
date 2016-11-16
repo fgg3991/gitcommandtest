@@ -1,0 +1,9 @@
+D:\VSproject\MyWcfService\MyClient\bin\Debug\MyClient.exe
+D:\VSproject\MyWcfService\MyClient\bin\Debug\MyClient.pdb
+D:\VSproject\MyWcfService\MyClient\bin\Debug\MyModel.dll
+D:\VSproject\MyWcfService\MyClient\bin\Debug\MyWcfService.dll
+D:\VSproject\MyWcfService\MyClient\bin\Debug\MyModel.pdb
+D:\VSproject\MyWcfService\MyClient\bin\Debug\MyWcfService.pdb
+D:\VSproject\MyWcfService\MyClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VSproject\MyWcfService\MyClient\obj\x86\Debug\MyClient.exe
+D:\VSproject\MyWcfService\MyClient\obj\x86\Debug\MyClient.pdb
