@@ -6,7 +6,7 @@ using System.ServiceModel;
 using MyWcfService;
 using MyModel;
 namespace MyClient
-{
+{//oo=======================O
     class Program
     {
         static void Main(string[] args)
